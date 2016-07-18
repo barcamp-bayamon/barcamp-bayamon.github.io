@@ -1,0 +1,51 @@
+url: https://barcamp-bayamon.github.io
+baseurl:
+
+# Site settings
+title: Barcamp Bayamon
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: Axel Rivera
+  pic: https://pbs.twimg.com/profile_images/1355308064/arivera_avatar.jpg
+  position: The Reasonable One
+  social:
+    - title: twitter
+      url: https://twitter.com/arivera
+
+- name: Froilán Irizarry
+  pic: https://pbs.twimg.com/profile_images/737438300768636928/eUj2iwd0.jpg
+  position: The Hammer
+  social:
+    - title: twitter
+      url: https://twitter.com/skfroi
+
+- name: Luis Armando Torres
+  pic: https://pbs.twimg.com/profile_images/708295684441571328/0774v6_n.jpg
+  position: Purveyor of Things
+  social:
+    - title: twitter
+      url: https://twitter.com/CGTCPR
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/barcampbayamon
+  - title: facebook
+    url: https://www.facebook.com/barcampbayamon/
+  - title: github
+    url: https://github.com/barcamp-bayamon
+  - title: instagram
+    url: https://www.instagram.com/barcampbayamon/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
