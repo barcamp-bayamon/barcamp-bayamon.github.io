@@ -46,6 +46,30 @@ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
+sponsors:
+  row1:
+    - name: engine-4
+      url: http://engine-4.com
+      img_url: img/logos/engine-4-official-logo-2016.png
+      css_class: img-responsive img-centered img-circle sponsors
+    - name: Municipio de Bayamon
+      url: http://www.municipiodebayamon.com/
+      img_url: http://imgur.com/zu5tfVF.jpg
+      css_class: img-responsive img-centered sponsors
+  row2:
+    - name: Ricardo Muñiz
+      url: https://twitter.com/rickymunizjr
+      img_url: https://pbs.twimg.com/profile_images/595776446678851585/ozkRwxzs.jpg
+      css_class: img-responsive img-centered img-circle sponsors
+    - name: James Lynn
+      url: https://twitter.com/jameslynn
+      img_url: https://pbs.twimg.com/profile_images/2519791387/m4ek5mye3ai134zmcxn0.jpeg
+      css_class: img-responsive img-centered img-circle sponsors
+    - name: Luis Figarella
+      url: https://www.linkedin.com/in/luis-figarella-351197
+      img_url: http://i.imgur.com/9pE9I1i.jpg
+      css_class: img-responsive img-centered img-circle sponsors
+
 # Build settings
 markdown: kramdown
 permalink: pretty
