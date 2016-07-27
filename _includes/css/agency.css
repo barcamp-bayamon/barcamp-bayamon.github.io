@@ -874,3 +874,7 @@ body {
 .sponsors {
   width: 200px;
 }
+
+.sponsor-margin {
+  margin-bottom: 40px;
+}

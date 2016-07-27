@@ -7,7 +7,7 @@
                 <h3 class="section-subheading text-muted">Without their support this wouldn't have happend. Give them a shoutout!</h3>
             </div>
           </div>
-          <div class="row">
+          <div class="row sponsor-margin">
             {% for sponsor in site.sponsors.row1 %}
               {% assign size = 12 | divided_by: site.sponsors.row1.size %}
               <div class="col-md-{{size}} col-sm-{{size}}">
@@ -22,7 +22,7 @@
               {% assign size = 12 | divided_by: site.sponsors.row2.size %}
               <div class="col-md-{{size}} col-sm-{{size}}">
                 <a href="{{sponsor.url}}">
-                  <img src="{{sponsor.img_url}}" class="{{sponsor.css_class}}"" alt="{{sponsor.name}}">
+                  <img src="{{sponsor.img_url}}" class="{{sponsor.css_class}}" alt="{{sponsor.name}}">
                 </a>
               </div>
             {% endfor %}
