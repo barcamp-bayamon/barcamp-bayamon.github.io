@@ -57,10 +57,6 @@ h6 {
     font-weight: 700;
 }
 
-.img-centered {
-    margin: 0 auto;
-}
-
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -871,10 +867,17 @@ body {
   margin-bottom: 25px;
 }
 
-.sponsors {
+.img-centered {
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsors-img-width {
   width: 200px;
 }
 
-.sponsor-margin {
+.sponsor-row-margin {
   margin-bottom: 40px;
 }

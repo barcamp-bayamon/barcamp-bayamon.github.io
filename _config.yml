@@ -51,25 +51,32 @@ sponsors:
     - name: engine-4
       url: http://engine-4.com
       img_url: img/logos/engine-4-official-logo-2016.png
-      css_class: img-responsive img-centered img-circle sponsors
+      css_class: img-responsive img-circle sponsors-img-width
     - name: Municipio de Bayamon
       url: http://www.municipiodebayamon.com/
       img_url: http://imgur.com/zu5tfVF.jpg
-      css_class: img-responsive img-centered sponsors
+      css_class: img-responsive sponsors-img-width
+    - name: Parallel 18
+      url: http://parallel18.com/
+      img_url: img/logos/parallel18-black-w-name.png
+      css_class: img-responsive
+    - name: Puerto Rico Science, Technology, and Research Trust
+      url: http://prsciencetrust.org/
+      img_url: img/logos/prst-logo.png
+      css_class: img-responsive
   row2:
     - name: Ricardo Muñiz
       url: https://twitter.com/rickymunizjr
       img_url: https://pbs.twimg.com/profile_images/595776446678851585/ozkRwxzs.jpg
-      css_class: img-responsive img-centered img-circle sponsors
+      css_class: img-responsive img-circle sponsors-img-width
     - name: James Lynn
       url: https://twitter.com/jameslynn
       img_url: https://pbs.twimg.com/profile_images/2519791387/m4ek5mye3ai134zmcxn0.jpeg
-      css_class: img-responsive img-centered img-circle sponsors
+      css_class: img-responsive img-circle sponsors-img-width
     - name: Luis Figarella
       url: https://www.linkedin.com/in/luis-figarella-351197
       img_url: http://i.imgur.com/9pE9I1i.jpg
-      css_class: img-responsive img-centered img-circle sponsors
-
+      css_class: img-responsive img-circle sponsors-img-width
 # Build settings
 markdown: kramdown
 permalink: pretty
