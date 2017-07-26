@@ -10,21 +10,21 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Axel Rivera
-  pic: https://pbs.twimg.com/profile_images/1355308064/arivera_avatar_400x400.jpg
+  pic: img/arivera.jpg
   position: The Reasonable One
   social:
     - title: twitter
       url: https://twitter.com/arivera
 
 - name: Froilán Irizarry
-  pic: https://pbs.twimg.com/profile_images/863186720036200448/zhtrP5w9_400x400.jpg
+  pic: img/froi.jpg
   position: The Hammer
   social:
     - title: twitter
       url: https://twitter.com/skfroi
 
 - name: Luis Armando Torres
-  pic: https://pbs.twimg.com/profile_images/708295684441571328/0774v6_n.jpg
+  pic: img/luis_torres.png
   position: Purveyor of Things
   social:
     - title: twitter
