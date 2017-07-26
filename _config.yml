@@ -10,14 +10,14 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Axel Rivera
-  pic: https://pbs.twimg.com/profile_images/1355308064/arivera_avatar.jpg
+  pic: https://pbs.twimg.com/profile_images/1355308064/arivera_avatar_400x400.jpg
   position: The Reasonable One
   social:
     - title: twitter
       url: https://twitter.com/arivera
 
 - name: Froilán Irizarry
-  pic: https://pbs.twimg.com/profile_images/737438300768636928/eUj2iwd0.jpg
+  pic: https://pbs.twimg.com/profile_images/863186720036200448/zhtrP5w9_400x400.jpg
   position: The Hammer
   social:
     - title: twitter
@@ -28,7 +28,7 @@ people:
   position: Purveyor of Things
   social:
     - title: twitter
-      url: https://twitter.com/CGTCPR
+      url: https://twitter.com/engine4cws
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
